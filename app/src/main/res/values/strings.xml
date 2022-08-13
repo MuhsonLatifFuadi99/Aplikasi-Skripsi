@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TPA Arrahmah</string>
+    <string name="MenuUtamaActivity">Dashboard</string>
+    <string name="HasilKaryaPenilaianActivity">Hasil Karya</string>
+    <string name="AnekdotPenilaianActivity">Penilaian Anekdot</string>
+    <string name="CeklisPenilaianActivity">Penilaian Anak Didik</string>
+    <string name="PenilaianHarianActivity">Penilaian</string>
+    <string name="DataPesertaDidikActivity">Data Peserta Didik</string>
+    <string-array name="Languages">
+        <item>PAI</item>
+        <item>NAM</item>
+        <item>Fisik Motorik</item>
+        <item>Kognitif</item>
+        <item>Bahasa</item>
+        <item>Sosem</item>
+        <item>Seni</item>
+
+
+    </string-array>
+    <string name="BB">BB</string>
+    <string name="MB">MB</string>
+    <string name="BSH">BSH</string>
+    <string name="BSB">BSB</string>
+
+
+</resources>

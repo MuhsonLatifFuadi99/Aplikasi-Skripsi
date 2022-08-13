@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.muhsonlatiffuadi.tpaarrahmah">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TpaArrahmah"
+        tools:targetApi="31">
+        <activity
+            android:name=".DataPersertaDidik.DetailPesertaDidikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PenilaianAnakDidikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LaporanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DataPesertaDidikActivity"
+            android:exported="false"
+            android:label="@string/DataPesertaDidikActivity" /> <!-- <activity -->
+        <!-- android:name=".Activity.ProfileActivity" -->
+        <!-- android:exported="false" /> -->
+        <activity
+            android:name=".HasilKaryaPenilaianActivity"
+            android:exported="false"
+            android:label="@string/HasilKaryaPenilaianActivity" />
+        <activity
+            android:name=".AnekdotPenilaianActivity"
+            android:exported="false"
+            android:label="@string/AnekdotPenilaianActivity" />
+        <activity
+            android:name=".CeklisPenilaianActivity"
+            android:exported="false"
+            android:label="@string/CeklisPenilaianActivity" />
+        <activity
+            android:name=".PenilaianHarianActivity"
+            android:exported="false"
+            android:label="@string/PenilaianHarianActivity" />
+        <activity
+            android:name=".MenuUtamaActivity"
+            android:exported="false"
+            android:label="@string/MenuUtamaActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

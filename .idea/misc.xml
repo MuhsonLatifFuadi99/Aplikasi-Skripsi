@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/drawable/back_spin.xml" value="0.203" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/drawable/bg_button.xml" value="0.203" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/drawable/bg_round_border.xml" value="0.2055" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/drawable/bground.xml" value="0.203" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/drawable/button.xml" value="0.203" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/drawable/ic_logout.xml" value="0.2075" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_anekdot_penilaian.xml" value="0.2" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_ceklis_penilaian.xml" value="0.25" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_data_peserta_didik.xml" value="0.25" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_detail_peserta_didik.xml" value="0.2" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_hasil_karya_penilaian.xml" value="0.25" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_laporan.xml" value="0.25" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_menu_utama.xml" value="0.2" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_penilaian_anak_didik.xml" value="0.25" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_penilaian_harian.xml" value="0.2" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/item_data.xml" value="0.2" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/layout/item_post.xml" value="0.33" />
+        <entry key="..\:/Aplikasi Skripsi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.186" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
